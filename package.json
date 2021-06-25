@@ -1,0 +1,39 @@
+{
+  "name": "cancun-hotel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --mode local",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
+    "axios": "^0.21.1",
+    "bootstrap-vue": "^2.21.2",
+    "moment": "^2.29.1",
+    "vue": "^2.6.11",
+    "vue-axios": "^3.2.4",
+    "vue-class-component": "^7.2.3",
+    "vue-confirm-dialog": "^1.0.2",
+    "vue-functional-calendar": "^2.9.4",
+    "vue-property-decorator": "^9.1.2",
+    "vue-router": "^3.2.0",
+    "vuejs-loading-plugin": "^1.0.51",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
